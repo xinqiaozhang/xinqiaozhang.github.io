@@ -1,10 +1,10 @@
 title: Xinqian(Joe) Zhang # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br>Very hardworking graduate student, more proactive and would like to do something different.<br>
-  Second description 
+
   <br>I believe in myself<br>
+  <br><br>
   <a href="https://www.linkedin.com/in/xinqiaozhang">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
