@@ -2,9 +2,9 @@
 
 ---
 
-### Projects related to hardware 
+### Projects Related to Hardware 
 
-[Project1: MIPs processor design with System Verilog](/sample_page)
+[Project1: MIPs Processor Design with System Verilog](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Analyzing power and Timing](http://example.com/)
+[Project 3 Analyzing Power and Timing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
