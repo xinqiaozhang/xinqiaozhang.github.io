@@ -4,8 +4,10 @@
 
 ### Projects Related to Hardware 
 
-[Project1: MIPs Processor Design with System Verilog](/sample_page)
+[Project1: MIPs Processor Design with System Verilog](/sample_page1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 2:IC Aging Prediction based on Machine Learning ](/sample_page2)
 
 ---
 [Project 2:IC Aging Prediction based on Machine Learning ](/pdf/sample_presentation.pdf)
