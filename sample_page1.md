@@ -34,13 +34,13 @@ The 6st instruction is jump, it will jump to the 2nd instruction and it will run
 
 ### 3. RESULTS
 
-img src=p1t2.jpgraw=true
+img src=p1t2.jpg?raw=true
 
 As shown in the picture, it runs good and it because of the jump instruction it will run forever
 
 ### 3.1. For basic logic instruction:
 
-img src=p1t3.jpgraw=true
+img src=p1t3.jpg?raw=true
 
 The first few command it runs good, for example the first command:
 
@@ -51,7 +51,7 @@ The first few command it runs good, for example the first command:
 The  bottom is instruction memory and the upper one shows the address and the value of  it.
 
 ### 3.2 For another instruction (jump):
-img src=p1t4.jpgraw=true
+img src=p1t4.jpg?raw=true
 
 As you can see in the picture, every time it do the jump instruction , it will get back to the address 2nd, and it will run forever. The instruction is 
 
