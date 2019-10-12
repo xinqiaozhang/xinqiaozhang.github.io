@@ -4,7 +4,7 @@ In this project, I designed a MIPs processor with System-Verilog and it can do m
 
 ### 1. Design architecture
 <img src="images/p1t1.jpg?raw=true"/>
-img src=p1t1.jpgraw=true
+
 
 
 ### 2.	METHODS
@@ -34,13 +34,14 @@ The 6st instruction is jump, it will jump to the 2nd instruction and it will run
 
 ### 3. RESULTS
 
-img src=p1t2.jpg?raw=true
+<img src="images/p1t2.jpg?raw=true"/>
+
 
 As shown in the picture, it runs good and it because of the jump instruction it will run forever
 
 ### 3.1. For basic logic instruction:
+<img src="images/p1t3.jpg?raw=true"/>
 
-img src=p1t3.jpg?raw=true
 
 The first few command it runs good, for example the first command:
 
@@ -51,7 +52,7 @@ The first few command it runs good, for example the first command:
 The  bottom is instruction memory and the upper one shows the address and the value of  it.
 
 ### 3.2 For another instruction (jump):
-img src=p1t4.jpg?raw=true
+<img src="images/p1t4.jpg?raw=true"/>
 
 As you can see in the picture, every time it do the jump instruction , it will get back to the address 2nd, and it will run forever. The instruction is 
 
