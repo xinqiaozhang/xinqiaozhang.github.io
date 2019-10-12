@@ -3,7 +3,7 @@
 In this project, I designed a MIPs processor with System-Verilog and it can do many operations like add sub even jump. And I use different system Verilog methods to implement it like ‘Always_comb’, ‘Logic’, ‘Always_ff’ and so on. 
 
 ### 1. Design architecture
-
+<img src="images/p1t1.jpg?raw=true"/>
 img src=p1t1.jpgraw=true
 
 
