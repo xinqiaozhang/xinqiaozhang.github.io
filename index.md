@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Projects related to hardware 
 
-[MIPs processor design with System Verilog](/sample_page)
+[Project1: MIPs processor design with System Verilog](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2:IC Aging Prediction based on Machine Learning ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Analyzing power and Timing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects related to Machine learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
