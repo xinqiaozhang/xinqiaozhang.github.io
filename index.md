@@ -20,5 +20,5 @@
 
 ### My pubilication
 
-- [Real-Time Prediction for IC Aging based on Machine Learning](/pdf/paper1.pdf)
+- [Real-Time Prediction for IC Aging based on Machine Learning](https://ieeexplore.ieee.org/abstract/document/8666076)
 ---
