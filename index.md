@@ -2,7 +2,7 @@
 
 ---
 
-### Projects Related to Hardware 
+### My Projects 
 
 [Project1: MIPs Processor Design with System Verilog (Individual Work)](/sample_page1)
 <img src="images/p1t1.jpg?raw=true"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### Other Projects (waiting for update)
+### My pubilication
 
-- [Project 1 Title](http://example.com/)
+- [Real-Time Prediction for IC Aging based on Machine Learning](/pdf/paper1.pdf)
 ---
