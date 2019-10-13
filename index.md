@@ -7,7 +7,7 @@
 [Project1: MIPs Processor Design with System Verilog](/sample_page1)
 <img src="images/p1t1.jpg?raw=true"/>
 
-[Project 2:IC Aging Prediction based on Machine Learning (Master's Thesis) ](/sample_page2)
+[Project 2:IC Aging Prediction based on Machine Learning (Master's Thesis) ](/pdf/thesis.pdf)
 
 ---
 [Project 2:IC Aging Prediction based on Machine Learning ](/pdf/sample_presentation.pdf)
