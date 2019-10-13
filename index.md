@@ -14,7 +14,7 @@
 <img src="images/p3t1.bmp?raw=true"/>
 ---
 [Project 4 Regression model for auto insurance claim probability predictions(Teamwork)](/sample_page4)
-<img src="images/p4t1.jpg?raw=true"/>
+<img src="images/p4t1.bmp?raw=true"/>
 
 ---
 
