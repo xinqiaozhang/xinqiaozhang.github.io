@@ -8,7 +8,7 @@
 <img src="images/p1t1.jpg?raw=true"/>
 
 [Project 2:IC Aging Prediction based on Machine Learning (Master's Thesis) ](/pdf/thesis.pdf)
-
+<img src="images/p2t1.jpg?raw=true"/>
 ---
 [Project 2:IC Aging Prediction based on Machine Learning ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
