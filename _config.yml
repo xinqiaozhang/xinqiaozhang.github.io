@@ -1,13 +1,14 @@
 title: Xinqiao(Joe) Zhang # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  He is a first year Phd student at UCSD/SDSU Joint program. His major is Electrical and Computer Engineering and some of his interest is on VLSI and Machine Learning domain
+  He is a Phd student in UCSD/SDSU Joint program. His major is Electrical and Computer Engineering and some of his interest is on VLSI and Machine Learning domain
   <br><br>
   He is a very hardworking graduate student, proactive and would like to do something differently to change the world.
   <br><br>
   I believe in myself! 
   <br><br> 
   <a href="https://www.linkedin.com/in/xinqiaozhang">View My LinkedIn Profile</a> 
-  
+  <br><br> 
+  <a /pdf/resume.pdf>View My Resume</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-149369516-1 # your Google Analytics tracking ID here 211905412
