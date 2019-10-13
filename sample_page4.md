@@ -1,31 +1,27 @@
-## This can be your internal website page  project page
+## Regression model for auto insurance claim probability predictions
 
 Project description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+Project Contribution 
+Xinqiao Zhang: 
+(1)	Feature engineering(30%)
+(2)	Build and train lightGBM model, fine tune different parameters (23 different combinations)
+(3)	Build and train neural network model.(50%)
+(4)	Model ensemble 
+(5)	Project report (35%). 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Shenchao Zhang
+(1)	Data preprocessing
+(2)	Rank Gaussian normalization
+(3)	Denoising autoencoder
+(4)	Project report(10%)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Xin Xue:
+(1)	Data analysis
+(2)	Data visualization
+(3)	Study of lightGBM model
+(4)	Build and train neural network model (50%)
+(5)	project report (55%) 
+---
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-img src=imagesdummy_thumbnail.jpgraw=true
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](httpsguides.github.comfeaturesmastering-markdown).
+For more details see [Project Report](/pdf/mlreport.pdf).
