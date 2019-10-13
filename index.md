@@ -6,7 +6,7 @@
 
 [Project 2:IC Aging Prediction based on Machine Learning (Master's Thesis)(Teamwork) ](/pdf/thesis.pdf)
 ---
-<img src="images/p2t1.jpg?raw=true" width="200" height="400"/>
+<img src="images/p2t1.jpg?raw=true" width="300" height="400"/>
 
 [Project 3:Analyzing Power and Timing(Individual Work) ](/sample_page3)
 ---
