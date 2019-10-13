@@ -1,4 +1,4 @@
-## My Projects
+# My Projects
 
 [Project1: MIPs Processor Design with System Verilog (Individual Work)](/sample_page1)
 <img src="images/p1t1.jpg?raw=true"/>
@@ -14,7 +14,7 @@
 
 ---
 
-## My pubilication
+# My pubilication
 
 - [Real-Time Prediction for IC Aging based on Machine Learning](https://ieeexplore.ieee.org/abstract/document/8666076)
 ---
