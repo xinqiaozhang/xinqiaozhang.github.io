@@ -20,5 +20,5 @@
 
 # My pubilication
 
-- [Real-Time Prediction for IC Aging based on Machine Learning](https://ieeexplore.ieee.org/abstract/document/8666076)
+- [K. Huang, X. Zhang and N. Karimi, "Real-Time Prediction for IC Aging Based on Machine Learning," in IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/abstract/document/8666076)
 ---
