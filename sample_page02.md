@@ -11,8 +11,8 @@ Initial data of the design is shown below:
 
 | Benchmark     | Cell count | FF count | Clock period | Initial WNS | Initial TNS | Number of violating endpoints |
 |:------------- |:-----------|:---------|:-------------|:------------| :-----------|:------------------------------|
-| usb_phy       | 503        | 98       | 0.42 ns    | -0.061 ns     |-0.547 ns    |  39                           | 
-| aes_cipher_top| 17261      | 530      | 1.3 ns    | -0.383 ns      |-13.450 ns   | 262                           | 
+| usb_phy       | 503        | 98       | 0.42 ns      | -0.061 ns   |-0.547 ns    |  39                           | 
+| aes_cipher_top| 17261      | 530      | 1.3 ns       | -0.383 ns   |-13.450 ns   | 262                           | 
 
 ### 2. Methods
 The method we use is applying differnt cells to meet the requirement. If the requirement does not meet, we will go back to the previous state until all the cells have been tried 5 times.
