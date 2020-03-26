@@ -5,6 +5,8 @@ In this project, we optimize clock tree to improve the performance of a design u
 ### 1. Background
 <img src="images/p02t1.jpg?raw=true"/>
 
+In this project, netlist, spef and sdc file for each design are provided. We need to implement an optimization flow for clock tree using useful skew to improve the timing of given designs. The initial designs have negative slack values. We are allowed to optimize / modify only clock tree, not data paths. There is one clock for each design.
+
 Initial data of the design is shown below:
 
 | Benchmark     | Cell count | FF count | Clock period | Initial WNS | Initial TNS | Number of violating endpoints |
