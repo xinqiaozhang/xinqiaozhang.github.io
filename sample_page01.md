@@ -13,6 +13,7 @@ Since this projoect is a trade-off between leakage power and timing slacks. The 
 
 ### 3. RESULTS
 In this project, I use three benchmarks to be optimized, which are usb_phy, aes_cipher_top and mpeg2_top. The statistics is shown below
+
 | Benchmark     | Cell count | Clock period | Initial WNS | Initial leakage power |Post-ECO WNS|Post-ECO Leakage power | Reduction rate 
 |:------------- |:-----------|:-------------|:------------| :---------------------|:-----------|:----------------------|:-----------|
 | usb_phy       | 443        | 350 ps       | 52.162ps    | 5.988mW               |-0.595581ps |  1.023000015mW        | 82.92%     |
