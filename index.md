@@ -16,10 +16,6 @@
 ---
 <img src="images/p2t1.jpg?raw=true" width="300" height="400"/>
 
-[Project :Analyzing Power and Timing(Individual) ](/sample_page3)
----
-<img src="images/p3t1.bmp?raw=true" width="400" height="200"/>
-
 [Project :Regression model for auto insurance claim probability predictions](/sample_page4)
 ---
 <img src="images/p4t1.bmp?raw=true"/>
