@@ -1,6 +1,10 @@
 # My Projects
 
-[Project: Leakage Power Minimization(Teamwork)](/sample_page0)
+[Project: Leakage Power Minimization(Teamwork)](/sample_page01)
+---
+<img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
+
+[Project: Leakage Power Minimization(Teamwork)](/sample_page02)
 ---
 <img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
 
