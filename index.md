@@ -1,18 +1,18 @@
 # My Projects
 
-[Project: Leakage Power Minimization(Team)](/sample_page01)
+[Project: Leakage Power Minimization](/sample_page01)
 ---
 <img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
 
-[Project: Leakage Power Minimization(Team)](/sample_page02)
+[Project: Leakage Power Minimization](/sample_page02)
 ---
 <img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
 
-[Project: MIPs Processor Design with System Verilog (Individual)](/sample_page1)
+[Project: MIPs Processor Design with System Verilog](/sample_page1)
 ---
 <img src="images/p1t1.jpg?raw=true" width="400" height="200"/>
 
-[Project :IC Aging Prediction based on Machine Learning (Master's Thesis)(Team) ](/pdf/thesis.pdf)
+[Project :IC Aging Prediction based on Machine Learning (Master's Thesis) ](/pdf/thesis.pdf)
 ---
 <img src="images/p2t1.jpg?raw=true" width="300" height="400"/>
 
@@ -20,7 +20,7 @@
 ---
 <img src="images/p3t1.bmp?raw=true" width="400" height="200"/>
 
-[Project :Regression model for auto insurance claim probability predictions(Team)](/sample_page4)
+[Project :Regression model for auto insurance claim probability predictions](/sample_page4)
 ---
 <img src="images/p4t1.bmp?raw=true"/>
 
