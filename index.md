@@ -1,12 +1,12 @@
 # My Projects
 
-[Project: Leakage Power Minimization](/sample_page01)
+[Project: Leakage Power Minimization (ECO)](/sample_page01)
 ---
 <img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
 
-[Project: Leakage Power Minimization](/sample_page02)
+[Project: Clock Tree Optimization using Useful Skew (ECO)](/sample_page02)
 ---
-<img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
+<img src="images/p02t1.jpg?raw=true" width="400" height="200"/>
 
 [Project: MIPs Processor Design with System Verilog](/sample_page1)
 ---
