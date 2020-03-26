@@ -6,6 +6,7 @@ In this project, we optimize clock tree to improve the performance of a design u
 <img src="images/p02t1.jpg?raw=true"/>
 
 Initial data of the design is shown below:
+
 | Benchmark     | Cell count | FF count | Clock period | Initial WNS | Initial TNS | Number of violating endpoints |
 |:------------- |:-----------|:---------|:-------------|:------------| :-----------|:------------------------------|
 | usb_phy       | 503        | 98       | 0.42 ns    | -0.061 ns     |-0.547 ns    |  39                           | 
