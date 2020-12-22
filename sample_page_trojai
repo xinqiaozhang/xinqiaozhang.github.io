@@ -9,14 +9,12 @@ In this project, I use python to detect over 1000 adversial training models. The
 Using machine learning, an artificial intelligence (AI) is trained on data, learns relationships in that data, and then is deployed to the world to operate on new data. The problem is that an adversary that can disrupt the training pipeline can insert Trojan behaviors into the AI. TrojAI’s goal is to detect Trojans hidden in trained AI models. 
 
 ### 2.	Overall flow
-<img src="images/p01t2.jpg?raw=true"/>
-Our flow has two stages: 1.Polygon trigger detection and 2. Instgram trigger detection.
+
+Our flow has two stages: 1.Polygon trigger detection and 2. Instgram trigger detection. (detailed method is pending for paper submission)
 
 ### 3. RESULTS
 We hit the 2nd out of 16 teams for round 3 data.
-
-<img src="images/trojai_round3.png?raw=true"/>
-
+<img src="images/trojai_round3.jpg?raw=true"/>
 
 ### 4 Conclusion:
 The result shows a very good performance and hit the target porformance, then it moved to next round.
