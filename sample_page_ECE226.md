@@ -1,7 +1,7 @@
 ## Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms 
 
 
-In this project, I use python to detect over 1000 adversial training models. The Target is to give the probablity that a given model is backdoored or posioned.
+In this project, I use python to
 
 ### 1. Adversarial training models
 <img src="images/trojai_t0.jpg?raw=true"/>
@@ -17,4 +17,4 @@ We hit the 2nd out of 16 teams for round 3 data.
 
 ### 4 Conclusion:
 The result shows a very good performance and hit the target porformance(cross entropy loss < 0.3465). It moved to next round once the target performance is reached.
-Project report
+Project report <a href="pdf/ECE226_Report_Xinqiao.pdf">View the project report</a> 
