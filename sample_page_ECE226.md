@@ -1,4 +1,4 @@
-## Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms. Project report <a href="pdf/ECE226_Report_Xinqiao.pdf">View the project report</a> 
+## Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms.  <a href="pdf/ECE226_Report_Xinqiao.pdf">View Project report</a> 
 
 
 In this project, I use python to optimuze deep neural network operations, libraries and implementation steps related to accelerating the performance of deep neural networks.
