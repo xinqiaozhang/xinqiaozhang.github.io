@@ -5,7 +5,7 @@
 In this project, I use python to detect over 1000 adversial training models. The Target is to give the probablity that a given model is backdoored or posioned.
 
 ### 1. adversarial training models
-<img src="images/trojai_p0.jpg?raw=true"/>
+<img src="images/trojai_t0.jpg?raw=true"/>
 Using machine learning, an artificial intelligence (AI) is trained on data, learns relationships in that data, and then is deployed to the world to operate on new data. The problem is that an adversary that can disrupt the training pipeline can insert Trojan behaviors into the AI. TrojAI’s goal is to detect Trojans hidden in trained AI models. 
 
 ### 2.	Overall flow
