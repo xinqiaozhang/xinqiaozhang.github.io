@@ -1,4 +1,4 @@
-## Project: TrojAI project (Website: https://pages.nist.gov/trojai/)
+## Project: TrojAI project (<a href="https://pages.nist.gov/trojai/">Project website</a> )
 
 
 
