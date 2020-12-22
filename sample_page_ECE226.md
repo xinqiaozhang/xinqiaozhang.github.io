@@ -1,20 +1,18 @@
-## Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms 
+## Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms. Project report <a href="pdf/ECE226_Report_Xinqiao.pdf">View the project report</a> 
 
 
-In this project, I use python to
+In this project, I use python to optimuze deep neural network operations, libraries and implementation steps related to accelerating the performance of deep neural networks.
 
-### 1. Adversarial training models
-<img src="images/trojai_t0.jpg?raw=true"/>
-Using machine learning, an artificial intelligence (AI) is trained on data, learns relationships in that data, and then is deployed to the world to operate on new data. The problem is that an adversary that can disrupt the training pipeline can insert Trojan behaviors into the AI. TrojAI’s goal is to detect Trojans hidden in trained AI models. 
+### 1. Purning
+<img src="images/ECE226_exp_purning.JPG?raw=true"/>
+Pruning is a technique in machine learning and search algorithms that reduces the size of decision trees by removing sections of the tree that provide little power to classify instances. Pruning reduces the complexity of the final classifier, and hence improves predictive accuracy by the reduction of overfitting [4]. Especially for
+hardware implementation, pruning can take advantage of limited hardware IOT devices or other low-power devices. By applying pruning, it can both improve the speed and save power consumption, which is a really hot topic recently.
 
-### 2.	Overall flow
 
-Our flow has two stages: 1.Polygon trigger detection and 2. Instgram trigger detection. (detailed method is pending for paper submission)
+### 2. Tucker decomposition
 
-### 3. Results
-We hit the 2nd out of 16 teams for round 3 data.
-<img src="images/trojai_round3.jpg?raw=true"/>
+<img src="images/ECE226_exp_decom.JPG?raw=true"/>
+Tucker decomposition is a method that decomposes a tensor into a smaller core tensor and a set of matrices. Tucker decomposition is a higher order extension of the singular value decomposition (SVD) of matrix, in the perspective of computing the orthonormal spaces associated with the different modes of a tensor. It simultaneously analyzes mode-n matricizations of the original tensor, and merges them with the core tensor.
 
-### 4 Conclusion:
-The result shows a very good performance and hit the target porformance(cross entropy loss < 0.3465). It moved to next round once the target performance is reached.
-Project report <a href="pdf/ECE226_Report_Xinqiao.pdf">View the project report</a> 
+### 3. Conclusion:
+Therefore, the main idea of this project is to learn some methods to optimize and accelerate the deep neural networks and make them compatible with the current various hardware platforms. I think the idea of optimization and acceleration is with the development of all kinds of IOT devices, some reliable and low-power hardware platform is needed to do this stuff. And this is a very hot topic and it is very promising in the future.
