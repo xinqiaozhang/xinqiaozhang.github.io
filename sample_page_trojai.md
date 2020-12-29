@@ -17,4 +17,4 @@ We hit the 2nd out of 16 teams for round 3 data.
 <img src="images/trojai_round3.jpg?raw=true"/>
 
 ### 4 Conclusion:
-The result shows a very good performance and hit the target porformance(cross entropy loss < 0.3465). It moved to next round once the target performance is reached.
+The result shows a very good performance and hit the target porformance(cross entropy loss < 0.3465). 
