@@ -39,13 +39,18 @@
 
 # My pubilication
 
-- [Samragh, Mohammad, Siam Hussain, Xinqiao Zhang, Ke Huang, and Farinaz Koushanfar. "On the Application of Binary Neural Networks in Oblivious Inference." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4630-4639. 2021.]
+- [Samragh, Mohammad, Siam Hussain, Xinqiao Zhang, Ke Huang, and Farinaz Koushanfar. "On the Application of Binary Neural Networks in Oblivious Inference." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4630-4639. 2021]
 (https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
+
 ---
-- [Ma, Dongning, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, and Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021).]
+
+- [Ma, Dongning, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, and Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021)]
 (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9419866)
+
 ---
+
 - [K. Huang, X. Zhang and N. Karimi, "Real-Time Prediction for IC Aging Based on Machine Learning," in IEEE Transactions on Instrumentation and Measurement](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666076&isnumber=4407674)
+
 ---
 
 
