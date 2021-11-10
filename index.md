@@ -1,6 +1,6 @@
 
 # My pubilication
-#### (last update 10/08/2021)
+#### (last update 11/10/2021)
 - [Samragh, Mohammad, Siam Hussain, Xinqiao Zhang, Ke Huang, and Farinaz Koushanfar. "On the Application of Binary Neural Networks in Oblivious Inference." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4630-4639. 2021](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
 
 ---
@@ -57,3 +57,6 @@
 # Professional Services:
 Reviewer:
 IEEE Transactions on Dependable and Secure Computing(TDSC-2020)
+
+# Award
+DAC Young Fellow (58th Design Automation Conference) Nov. 2021
