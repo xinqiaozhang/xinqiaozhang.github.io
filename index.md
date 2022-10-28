@@ -6,11 +6,11 @@
 
 ---
 
-- [S. Hussain, N, Sheybani, P. Neekhara, X. Zhang, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. In Proceedings of 2022 International Conference on Computer-Aided Design)](https://arxiv.org/abs/2209.12391)
+- [S. Hussain, N, Sheybani, P. Neekhara, X. Zhang, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. In Proceedings of 2022 International Conference on Computer-Aided Design)]<a href="pdf/Resume_Xinqiao Zhang.pdf">View paper</a> 
 
 ---
 
-- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)](pdf/Resume_Xinqiao Zhang.pdf)
+- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)]<a href="pdf/Resume_Xinqiao Zhang.pdf">View Paper</a> 
 
 ---
 
