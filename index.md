@@ -6,7 +6,7 @@
 
 ---
 
-- [S. Hussain, N, Sheybani, P. Neekhara, X. Zhang, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. In Proceedings of 2022 International Conference on Computer-Aided Design)(Accepted)]
+- [S. Hussain, N, Sheybani, P. Neekhara, X. Zhang, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. In Proceedings of 2022 International Conference on Computer-Aided Design)](https://arxiv.org/abs/2209.12391)
 
 ---
 
