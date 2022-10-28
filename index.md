@@ -2,7 +2,7 @@
 # My pubilication
 #### (last update 10/28/2022)
 
-- [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022). zPROBE: Zero Peek Robustness Checks for Federated Learning. NeurIPS 2022 (TSRML)(Accepted)] 
+- [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022). zPROBE: Zero Peek Robustness Checks for Federated Learning. NeurIPS 2022 (TSRML Workshop)(Accepted)] 
 
 ---
 
