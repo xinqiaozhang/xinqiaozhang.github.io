@@ -10,11 +10,11 @@
 
 ---
 
-- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)]
+- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)](pdf/Resume_Xinqiao Zhang.pdf)
 
 ---
 
-- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.(Accepted)]
+- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.(Accepted)](pdf/Resume_Xinqiao Zhang.pdf)
 
 ---
 
