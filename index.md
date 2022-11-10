@@ -2,7 +2,7 @@
 # My pubilication
 #### (last update 10/28/2022)
 
-- [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022). zPROBE: Zero Peek Robustness Checks for Federated Learning. NeurIPS 2022 (TSRML Workshop)(Accepted)] 
+- [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022). zPROBE: Zero Peek Robustness Checks for Federated Learning. NeurIPS 2022 (TSRML)(Accepted)] 
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)]<a href="pdf/senhash.pdf">View Paper</a> 
+- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
 
 ---
 
