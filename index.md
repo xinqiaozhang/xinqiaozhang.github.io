@@ -1,6 +1,6 @@
 
 # My pubilication
-#### (last update 12/13/2022)
+#### (last update 03/24/2023)
 
 - [**Outstanding paper award**] [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf)
 
@@ -11,11 +11,11 @@
 
 ---
 
-- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)(Accepted)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
+- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
 
 ---
 
-- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.(Accepted)] <a href="pdf/adatest.pdf">View Paper</a> 
+- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.] (https://dl.acm.org/doi/pdf/10.1145/3544015)
 
 ---
 
@@ -36,6 +36,9 @@
 
 ---
 
+# My patent
+
+FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES (filed on 03/24/2023)
 
 # My Projects
 
