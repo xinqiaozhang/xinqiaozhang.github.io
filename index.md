@@ -15,7 +15,7 @@
 
 ---
 
-- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.] (https://dl.acm.org/doi/pdf/10.1145/3544015)
+- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.](https://dl.acm.org/doi/pdf/10.1145/3544015)
 
 ---
 
