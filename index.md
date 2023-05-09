@@ -38,9 +38,9 @@
 
 # My patent
 
-- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] (filed on 03/24/2023)
+- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] 
 
-- [zPROBE: Zero Peek Robustness Checks for Federated Learning] (pending)
+- [zPROBE: Zero Peek Robustness Checks for Federated Learning]
 
 # My Projects
 
