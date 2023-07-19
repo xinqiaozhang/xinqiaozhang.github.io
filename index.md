@@ -1,6 +1,10 @@
 
 # My pubilication
-#### (last update 05/09/2023)
+#### (last update 07/19/2023)
+
+- [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)]() [**Just accepted**] 
+
+- [X. Zhang, M. Samragh, S. Hussain, , K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192)
 
 - [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
 
