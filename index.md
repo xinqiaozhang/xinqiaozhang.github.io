@@ -46,9 +46,17 @@
 
 # My patent
 
-- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] 
+- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] 2022
 
-- [zPROBE: Zero Peek Robustness Checks for Federated Learning]
+- [zPROBE: Zero Peek Robustness Checks for Federated Learning] 2022
+
+- [Peasants Joy precisely pushes guiding device], CN205754440U, 2016 
+
+- [Bicycle lock based on bluetooth], CN205621091U , 2016
+
+- [Portablely lead blind waistband] CN204766395U, 2015
+
+
 
 # My Projects
 
