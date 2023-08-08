@@ -1,6 +1,6 @@
 
 # My pubilication
-#### (last update 07/19/2023)
+#### (last update 08/08/2023)
 
 - [X. Zhang, Z. Ghodsi, M, Javaheripi, N. Sheybani, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)]() [**Just accepted**] 
 
