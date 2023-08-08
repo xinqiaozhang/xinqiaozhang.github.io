@@ -93,7 +93,10 @@
 # Professional Services:
 Reviewer:
 IEEE Transactions on Dependable and Secure Computing(TDSC-2020)
+IEEE Transactions on Dependable and Secure Computing(TDSC-2022)
 
 # Award
+Outstanding paper award (NeurlPS 2022 TSRML)
 DAC Young Fellow (58th Design Automation Conference) Nov. 2021
+
 
