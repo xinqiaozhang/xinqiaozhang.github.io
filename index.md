@@ -2,8 +2,8 @@
 # My pubilication
 #### (last update 12/27/2023)
 
-- [Paarth Neekhara, Shehzeen Hussain, Xinqiao Zhang, Ke Huang, Julian McAuley, Farinaz Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
-Authentication and Countering Deepfakes (ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
+- [P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
+Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
 
 - [Z. Ghodsi*, M, Javaheripi*, N. Sheybani*, **X. Zhang***, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
 
