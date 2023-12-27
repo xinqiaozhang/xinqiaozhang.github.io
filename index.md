@@ -2,7 +2,10 @@
 # My pubilication
 #### (last update 12/27/2023)
 
-- [Z. Ghodsi, M, Javaheripi, N. Sheybani, **X. Zhang**, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
+- [Paarth Neekhara, Shehzeen Hussain, Xinqiao Zhang, Ke Huang, Julian McAuley, Farinaz Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
+Authentication and Countering Deepfakes (ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
+
+- [Z. Ghodsi*, M, Javaheripi*, N. Sheybani*, **X. Zhang***, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
 
 ---
 
@@ -10,37 +13,37 @@
 
 ---
 
-- [Z. Ghodsi, M, Javaheripi, N. Sheybani,**X. Zhang**, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
+- [Z. Ghodsi*, M, Javaheripi*, N. Sheybani*,**X. Zhang***, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
 
 ---
 
-- [S. Hussain, N, Sheybani, P. Neekhara, X. Zhang, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
+- [S. Hussain, N, Sheybani, P. Neekhara, **X. Zhang**, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
 
 
 ---
 
-- [N. Sheybani, X. Zhang, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
+- [N. Sheybani, **X. Zhang**, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
 
 ---
 
-- [H. Chen, X. Zhang, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.](https://dl.acm.org/doi/pdf/10.1145/3544015)
+- [H. Chen, **X. Zhang**, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.](https://dl.acm.org/doi/pdf/10.1145/3544015)
 
 ---
 
-- [M. Samragh, S. Hussain, X. Zhang, K. Huang, & F. Koushanfar (2021). On the Application of Binary Neural Networks in Oblivious Inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4630-4639)](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
+- [M. Samragh, S. Hussain, **X. Zhang**, K. Huang, & F. Koushanfar (2021). On the Application of Binary Neural Networks in Oblivious Inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4630-4639)](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
 
 ---
 
-- [K. Huang, M.T.H. Anik, X. Zhang, and N. Karimi, "Real-Time IC Aging Prediction via On-Chip Sensors." 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9516732)
+- [K. Huang, M.T.H. Anik, **X. Zhang**, and N. Karimi, "Real-Time IC Aging Prediction via On-Chip Sensors." 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9516732)
 
 ---
 
 
-- [D. Ma, X. Zhang, et al. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021).](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9419866)
+- [D. Ma, **X. Zhang**, et al. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021).](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9419866)
 
 ---
 
-- [K. Huang, X. Zhang, and N. Karimi, "Real-time prediction for IC aging based on machine learning. "IEEE Transactions on Instrumentation and Measurement (TIM), vol. 68, no. 12, pp. 4756-4764, 2019.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666076&isnumber=4407674)
+- [K. Huang, **X. Zhang**, and N. Karimi, "Real-time prediction for IC aging based on machine learning. "IEEE Transactions on Instrumentation and Measurement (TIM), vol. 68, no. 12, pp. 4756-4764, 2019.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666076&isnumber=4407674)
 
 ---
 
