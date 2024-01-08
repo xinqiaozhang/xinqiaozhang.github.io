@@ -9,9 +9,8 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 - [Z. Ghodsi\*, M, Javaheripi\*, N. Sheyban\*, **X. Zhang**\*, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
 
----
 
-- [M. Samragh, S. Hussain, **X. Zhang**, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192)
+- [ **X. Zhang**, M. Samragh, S. Hussain, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192) 
 
 ---
 
