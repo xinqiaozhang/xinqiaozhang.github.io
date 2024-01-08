@@ -7,24 +7,24 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 ---
 
-- [Z. Ghodsi**, M, Javaheripi**, N. Sheyban**, **X. Zhang****, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
+- [Z. Ghodsi\*, M, Javaheripi\*, N. Sheyban\*, *X. Zhang*\*, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
 
 ---
 
-- [M. Samragh, S. Hussain, **X. Zhang**, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192)
+- [M. Samragh, S. Hussain, *X. Zhang*, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192)
 
 ---
 
-- [Z. Ghodsi*, M, Javaheripi*, N. Sheybani*,**X. Zhang***, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
+- [Z. Ghodsi\*, M, Javaheripi\*, N. Sheybani\*,*X. Zhang*\*, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
 
 ---
 
-- [S. Hussain, N, Sheybani, P. Neekhara, **X. Zhang**, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
+- [S. Hussain, N, Sheybani, P. Neekhara, *X. Zhang*, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
 
 
 ---
 
-- [N. Sheybani, **X. Zhang**, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
+- [N. Sheybani, *X. Zhang*, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
 
 ---
 
