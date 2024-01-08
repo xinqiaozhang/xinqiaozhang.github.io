@@ -49,11 +49,11 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 ---
 
-# My patent
+# My patents
 
-- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] 2022
+- [FACESIGNS: SEMI-FRAGILE NEURAL WATERMARKS FOR MEDIA AUTHENTICATION AND COUNTERING DEEPFAKES] 2022 (Serial No.63/323,470.)
 
-- [zPROBE: Zero Peek Robustness Checks for Federated Learning] 2022
+- [zPROBE: Zero Peek Robustness Checks for Federated Learning] 2022 (Serial No.63/496,157.)
 
 - [Peasants Joy precisely pushes guiding device], CN205754440U, 2016 
 
