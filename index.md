@@ -1,6 +1,6 @@
 
 # My pubilication
-#### (last update 01/08/2024) (\* indicates equal contribution)
+#### (last update 03/11/2024) (\* indicates equal contribution)
 
 - [P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
 Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
