@@ -2,7 +2,7 @@
 # My pubilication
 #### (last update 03/20/2024) (\* indicates equal contribution)
 
-- [("Watermarking") P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
+- [(*Watermarking*) P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
 Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
 
 ---
@@ -19,7 +19,7 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 ---
 
-- [("Watermarking") S. Hussain, N, Sheybani, P. Neekhara, **X. Zhang**, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
+- [(*Watermarking*) S. Hussain, N, Sheybani, P. Neekhara, **X. Zhang**, J. Duarte, F. Koushanfar (2022) FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs. ICCAD'22)](https://arxiv.org/abs/2209.12391)
 
 
 ---
