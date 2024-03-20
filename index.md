@@ -2,20 +2,20 @@
 # My pubilication
 #### (last update 03/11/2024) (\* indicates equal contribution)
 
-- [(Watermarking)P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
+- [(Watermarking) P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar, (2023).zPROBE: FaceSigns: Semi-Fragile Neural Watermarks for Media
 Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimedia Computing Communications and Applications)](https://arxiv.org/pdf/2204.01960.pdf)
 
 ---
 
-- [(Trustworthy ML)Z. Ghodsi\*, M, Javaheripi\*, N. Sheyban\*, **X. Zhang**\*, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
+- [(Trustworthy ML) Z. Ghodsi\*, M, Javaheripi\*, N. Sheyban\*, **X. Zhang**\*, K, Huang, & F. Koushanfar, (2023).zPROBE: Zero Peek Robustness Checks for Federated Learning, (ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
 
 ---
 
-- [(Trustworthy ML)**X. Zhang**, M. Samragh, S. Hussain, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192) 
+- [(Trustworthy ML) **X. Zhang**, M. Samragh, S. Hussain, K. Huang, & F. Koushanfar. Scalable Binary Neural Network applications in Oblivious Inference, (ACM TECS)](https://dl.acm.org/doi/pdf/10.1145/3607192) 
 
 ---
 
-- [(Trustworthy ML)Z. Ghodsi\*, M, Javaheripi\*, N. Sheybani\*,**X. Zhang**\*, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
+- [(Trustworthy ML) Z. Ghodsi\*, M, Javaheripi\*, N. Sheybani\*,**X. Zhang**\*, K, Huang, & F. Koushanfar, (2022).zPROBE: Zero Peek Robustness Checks for Federated Learning, (NeurIPS'22-TSRML)](https://arxiv.org/pdf/2206.12100.pdf) [**Outstanding paper award**] 
 
 ---
 
@@ -24,28 +24,28 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 ---
 
-- [(Crypto)N. Sheybani, **X. Zhang**, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
+- [(Crypto) N. Sheybani, **X. Zhang**, S. U. Hussain, F. Koushanfar. SenseHash: Computing on Sensor Values Mystified at the Origin. IEEE (TETC-2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
 
 ---
 
-- [(Hardware Security)H. Chen, **X. Zhang**, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.](https://dl.acm.org/doi/pdf/10.1145/3544015)
+- [(Hardware Security) H. Chen, **X. Zhang**, K. Huang, F. Koushanfar. “AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection,” ACM Transactions on Embedded Computing Systems (TECS) 2022.](https://dl.acm.org/doi/pdf/10.1145/3544015)
 
 ---
 
-- [(Trustworthy ML)M. Samragh, S. Hussain, **X. Zhang**, K. Huang, & F. Koushanfar (2021). On the Application of Binary Neural Networks in Oblivious Inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4630-4639)](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
+- [(Trustworthy ML) M. Samragh, S. Hussain, **X. Zhang**, K. Huang, & F. Koushanfar (2021). On the Application of Binary Neural Networks in Oblivious Inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 4630-4639)](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
 
 ---
 
-- [(Hardware Security)K. Huang, M.T.H. Anik, **X. Zhang**, and N. Karimi, "Real-Time IC Aging Prediction via On-Chip Sensors." 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9516732)
+- [(Hardware Security) K. Huang, M.T.H. Anik, **X. Zhang**, and N. Karimi, "Real-Time IC Aging Prediction via On-Chip Sensors." 2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9516732)
 
 ---
 
 
-- [(Hardware Security)D. Ma, **X. Zhang**, et al. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021).](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9419866)
+- [(Hardware Security) D. Ma, **X. Zhang**, et al. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2021).](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9419866)
 
 ---
 
-- [(Hardware Security)K. Huang, **X. Zhang**, and N. Karimi, "Real-time prediction for IC aging based on machine learning. "IEEE Transactions on Instrumentation and Measurement (TIM), vol. 68, no. 12, pp. 4756-4764, 2019.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666076&isnumber=4407674)
+- [(Hardware Security) K. Huang, **X. Zhang**, and N. Karimi, "Real-time prediction for IC aging based on machine learning. "IEEE Transactions on Instrumentation and Measurement (TIM), vol. 68, no. 12, pp. 4756-4764, 2019.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666076&isnumber=4407674)
 
 ---
 
