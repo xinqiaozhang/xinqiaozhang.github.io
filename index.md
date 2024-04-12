@@ -4,12 +4,14 @@
 # EXPERIENCE
 
 ---
+
 Check-It Analytics, San Diego, CA    
 - Aug. 2023 - Current
 - Founder and Chief Technology Officer (CTO)
 - Established an Multi-Language AI-driven financial information platform that amalgamates GPT-like LLM model based
 financial news aggregator, Fact Check validator, Fundamental data Business Analytics tool for global U.S. Stock retail
 investors.
+
 ---
 
 Fresh Wind Chinese Church Fellowship at UCSD, San Diego, CA 
