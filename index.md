@@ -9,7 +9,7 @@ UC San Diego, La Jolla, CA
 - Dec 2019 - Current
 - Graduate Student Researcher
 - Core contributor of TrojAI Project funded by IARPA.
--- Built efficient methods to detect backdoored AI models and got 2nd out of 16 teams in the competition.
+   Built efficient methods to detect backdoored AI models and got 2nd out of 16 teams in the competition.
 - Resulted in numerous top-tier publications.
 
 ---
