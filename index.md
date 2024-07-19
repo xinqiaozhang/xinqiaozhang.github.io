@@ -1,5 +1,5 @@
 
-(last update 04/12/2024) 
+(last update 07/19/2024) 
 
 # EXPERIENCE
 
@@ -9,18 +9,33 @@ UC San Diego, La Jolla, CA
 - Dec 2019 - Current
 - Graduate Student Researcher
 - Thesis project: Comprehensive Strategies for Enhancing AI Security and Performance
+
   ○ Objective: Develop advanced AI solutions to improve both security and performance in AI systems.
+
   ○ Details: Developed a framework for conducting robustness checks in federated learning without revealing
   sensitive data. Designed and implemented an FPGA-based accelerator to improve the detection of trojans
   in deep neural networks, increasing the efficiency and speed of the process.
+
   ○ Achievements: Presented at ICCV 2023 and received the Outstanding Paper Award in NeurIPS 2023
   Workshop.
+
   ○ Impact: Enhanced the security and reliability of federated learning systems by reducing data leakage by
   up to 99%, enabling more robust and secure data sharing across distributed networks, and increasing
   system robustness by up to 99%. Improved the robustness and security of deep neural networks by
   accelerating trojan detection processes and increasing detection accuracy by 41%, making AI systems
   significantly more secure against malicious attacks.
 
+
+- Other projects:
+  ○ Developed transformer-based machine learning algorithms for chip data detection with 16% accuracy
+  improvement.
+
+  ○ Built novel AI-based media authentication to verify media ownership, offering up to 54% accuracy
+  improvement compared with prior solutions.
+  
+  ○ Experienced with projects with quantization and optimization of machine learning models, delivered 2x
+  speedups while maintaining high performance
+  
 ---
 
 Arm, Austin, TX 
@@ -29,6 +44,12 @@ Arm, Austin, TX
 - Conducted in-depth research on security detection using Large Language Models
 - Developed and implemented a data distillation framework, achieving a significant reduction in data size without
 compromising efficiency.
+
+Arm, Austin, TX 
+- May 2022 - Aug. 2022
+- Research Intern
+- Developed a novel vulnerability detection algorithm using Graph Neural Networks (GNNs).
+- Led a data distillation project that reduced data processing times by 50%.
 
 ---
 
