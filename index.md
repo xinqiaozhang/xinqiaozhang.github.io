@@ -8,9 +8,18 @@
 UC San Diego, La Jolla, CA 
 - Dec 2019 - Current
 - Graduate Student Researcher
-- Core contributor of TrojAI Project funded by IARPA.
-  - Built efficient methods to detect backdoored AI models and got 2nd out of 16 teams in the competition.
-- Resulted in numerous top-tier publications.
+- Thesis project: Comprehensive Strategies for Enhancing AI Security and Performance
+  ○ Objective: Develop advanced AI solutions to improve both security and performance in AI systems.
+  ○ Details: Developed a framework for conducting robustness checks in federated learning without revealing
+  sensitive data. Designed and implemented an FPGA-based accelerator to improve the detection of trojans
+  in deep neural networks, increasing the efficiency and speed of the process.
+  ○ Achievements: Presented at ICCV 2023 and received the Outstanding Paper Award in NeurIPS 2023
+  Workshop.
+  ○ Impact: Enhanced the security and reliability of federated learning systems by reducing data leakage by
+  up to 99%, enabling more robust and secure data sharing across distributed networks, and increasing
+  system robustness by up to 99%. Improved the robustness and security of deep neural networks by
+  accelerating trojan detection processes and increasing detection accuracy by 41%, making AI systems
+  significantly more secure against malicious attacks.
 
 ---
 
