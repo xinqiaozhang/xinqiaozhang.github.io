@@ -137,6 +137,9 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 # My Projects
 
+[Project: zPROBE: Zero Peek Robustness Checks for Federated Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
+
+<img src="images/zprobe.png?raw=true" width="400" height="200"/>
 
 [Project: On the Application of Binary Neural Networks in Oblivious Inference](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
 ---
