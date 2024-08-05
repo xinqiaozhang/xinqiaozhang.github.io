@@ -133,41 +133,42 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 # My Projects
 
-[Project: zPROBE: Zero Peek Robustness Checks for Federated Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.pdf)
+[Project: Secure Retrieval-Augmented Generation on LLMs (May. 2024 - Current)] 
+- Implemented attack defense using a novel objective function combining adversarial loss, BERTScore, and harmful loss. 
+- Developed a robust RAG system for LLMs to counter universal attacks.
+- Successfully prevented over 90% of state-of-the-art poisoning attacks and jailbreaking attacks on RAG-based LLMs.
 
-<img src="images/zprobe.png?raw=true" width="400" height="200"/>
 
-[Project: On the Application of Binary Neural Networks in Oblivious Inference](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/html/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.html)
+[Project: Transformer-based sequence classification (Dec. 2022 - Aug. 2024)]
+- Addressed the need to detect malicious activities on industry SoC log data.
+- Developed transformer-based machine learning algorithms to classify hardware intrusion attacks.
+- Achieved a 16% accuracy improvement in hardware intrusion detection.
+
+
+[Project: DNN-based media authentication and acceleration (Feb.. 2023 - Aug. 2023
+)](https://dl.acm.org/doi/pdf/10.1145/3508352.3549357)
+---
+<img src="images/facesign.pdf?raw=true" width="400" height="200"/>
+
+- Address the growing threat of deepfakes and manipulated media, which pose significant challenges due to advances in realistic image and video synthesis techniques.
+- Built a novel AI-based media authentication system using a deep learning-based semi-fragile watermarking technique.
+- Achieved up to a 54% accuracy improvement with an AUC score of 0.996.
+
+[Project: Quantization of Deep Neural Network (Feb. 2021 - May. 2021)](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/papers/Samragh_On_the_Application_of_Binary_Neural_Networks_in_Oblivious_Inference_CVPRW_2021_paper.pdf)
 ---
 <img src="images/CVPR2021_0.jpg?raw=true" width="400" height="200"/>
 
-[Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms](/sample_page_ECE226)
+- Enabled oblivious inference in BNN.
+- Explored the application of BNN in oblivious inference. Devised lightweight cryptographic protocols tailored to BNNs.
+- Achieved 2x faster inference and up to 11x faster inference for binary networks.
+
+[Project: Optimization and Acceleration of Deep Learning on Various Hardware Platforms (2021)](/sample_page_ECE226)
 ---
 <img src="images/ECE226_purning.jpg?raw=true" width="400" height="200"/>
 
 [Project: TrojAI](/sample_page_trojai)
 ---
 <img src="images/trojai_t0.jpg?raw=true" width="400" height="200"/>
-
-[Project: Leakage Power Minimization (ECO)](/sample_page01)
----
-<img src="images/p01t1.jpg?raw=true" width="400" height="200"/>
-
-[Project :IC Aging Prediction based on Machine Learning (Master's Thesis) ](/pdf/thesis.pdf)
----
-<img src="images/p2t1.jpg?raw=true" width="300" height="400"/>
-
-[Project :Regression model for auto insurance claim probability predictions](/sample_page4)
----
-<img src="images/p4t1.bmp?raw=true"/>
-
-[Project: Clock Tree Optimization using Useful Skew (ECO)](/sample_page02)
----
-<img src="images/p02t1.jpg?raw=true" width="400" height="200"/>
-
-[Project: MIPs Processor Design with System Verilog](/sample_page1)
----
-<img src="images/p1t1.jpg?raw=true" width="400" height="200"/>
 
 
 
