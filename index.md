@@ -1,55 +1,51 @@
 
-(last update 07/19/2024) 
+(last update 08/05/2024) 
 
+# EDUCATION
+UC San Diego
+- PhD, Computer Engineering (advised by Prof. Farinaz Koushanfar) (Aug. 2024)            	       		       	     
+
+San Diego State University
+- MSEE, Computer Engineering (Dec. 2019)
+
+Northeastern University (CN)										  
+- BSEE, Computer Engineering (May 2017)
+
+---
 # EXPERIENCE
 
 ---
+Founder and Chief Technology Officer (CTO), Check-It Analytics, San Diego, CA		(Aug. 2023 - Current)
 
-UC San Diego, La Jolla, CA 
-- Dec 2019 - Current
-- Graduate Student Researcher
-- Thesis project: Comprehensive Strategies for Enhancing AI Security and Performance
+- Founded and led the development of an AI-driven financial information platform to address the time-consuming issue of collecting and analyzing financial news. 
+- Used RAG for LLMs to streamline financial processes and provide customers with suggested questions and answers.
+- Achieved up to 80% time savings compared to traditional financial platforms.
 
-  ○ Objective: Develop advanced AI solutions to improve both security and performance in AI systems.
-
-  ○ Details: Developed a framework for conducting robustness checks in federated learning without revealing
-  sensitive data. Designed and implemented an FPGA-based accelerator to improve the detection of trojans
-  in deep neural networks, increasing the efficiency and speed of the process.
-
-  ○ Achievements: Presented at ICCV 2023 and received the Outstanding Paper Award in NeurIPS 2023
-  Workshop.
-
-  ○ Impact: Enhanced the security and reliability of federated learning systems by reducing data leakage by
-  up to 99%, enabling more robust and secure data sharing across distributed networks, and increasing
-  system robustness by up to 99%. Improved the robustness and security of deep neural networks by
-  accelerating trojan detection processes and increasing detection accuracy by 41%, making AI systems
-  significantly more secure against malicious attacks.
-
-
-- Other projects:
-  ○ Developed transformer-based machine learning algorithms for chip data detection with 16% accuracy
-  improvement.
-
-  ○ Built novel AI-based media authentication to verify media ownership, offering up to 54% accuracy
-  improvement compared with prior solutions.
-  
-  ○ Experienced with projects with quantization and optimization of machine learning models, delivered 2x
-  speedups while maintaining high performance
-  
 ---
+Research Intern,  Arm, Austin, TX  (June 2023 - Sep. 2023)
 
-Arm, Austin, TX 
-- June 2023 - Sep. 2023
-- Research Intern
-- Conducted in-depth research on security detection using Large Language Models
-- Developed and implemented a data distillation framework, achieving a significant reduction in data size without
-compromising efficiency.
+- Address the challenge of large data size without compromising efficiency.
+- Developed a data distillation algorithm.
+- Reduced data size to at least 1/10,000 and improved ML model performance by at least 50%.
 
-Arm, Austin, TX 
-- May 2022 - Aug. 2022
-- Research Intern
-- Developed a novel vulnerability detection algorithm using Graph Neural Networks (GNNs).
-- Led a data distillation project that reduced data processing times by 50%.
+---
+Research Intern,  Arm, Austin, TX  (May 2022 - Aug. 2022)
+
+- Led a SoC trace data distillation project to improve data processing efficiency.
+- Developed a novel vulnerability detection algorithm using Graph Neural Networks (GNNs). 
+- Reduced data processing times by 50%.
+
+---
+Graduate Student Researcher, UC San Diego, La Jolla, CA	(Dec. 2019 - Current)
+
+- Developed innovative techniques for identifying compromised artificial intelligence models and enhancing security.
+- Played a leading role in a team that achieved 2nd place among 16 competitors in a notable AI security challenge
+
+---
+Deacon Board Member, Fresh Wind Chinese Church of San Diego, San Diego, CA	(Aug. 2019 - Current)
+
+- Led the outreach department to organize large-scale social events
+- Successfully organized events for up to 120 people
 
 ---
 
