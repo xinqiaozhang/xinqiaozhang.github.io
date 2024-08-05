@@ -117,11 +117,18 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 
 # Professional Services:
 Reviewer:
-IEEE Transactions on Dependable and Secure Computing(TDSC-2020)
-IEEE Transactions on Dependable and Secure Computing(TDSC-2022)
+- ACM Transactions on TECS
+- IEEE Transactions on Dependable and Secure Computing
+- The journal of supercomputing
+- International Journal of Machine learning and Cybernetics
+- Transactions on Machine Learning Research
+- IEEE ICPR
+- Transactions on Information Forensics & Security
 
 # Award
 Outstanding paper award (NeurlPS 2022 TSRML)
 DAC Young Fellow (58th Design Automation Conference) Nov. 2021
+Honorable Mention of Mathematical Contest in Modeling Oct.  2016
+
 
 
