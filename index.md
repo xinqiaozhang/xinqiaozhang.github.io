@@ -148,7 +148,7 @@ Authentication and Countering Deepfakes (TOMM-2024, ACM Transactions on Multimed
 [Project: DNN-based media authentication and acceleration (Feb.. 2023 - Aug. 2023
 )](https://dl.acm.org/doi/pdf/10.1145/3508352.3549357)
 ---
-<img src="images/facesign.pdf?raw=true" width="400" height="200"/>
+<img src="images/facesign.jpg?raw=true" width="400" height="200"/>
 
 - Address the growing threat of deepfakes and manipulated media, which pose significant challenges due to advances in realistic image and video synthesis techniques.
 - Built a novel AI-based media authentication system using a deep learning-based semi-fragile watermarking technique.
