@@ -1,6 +1,4 @@
 
-(last update 08/05/2024) 
-
 # EDUCATION
 - UC San Diego, PhD, Computer Engineering (advised by Prof. Farinaz Koushanfar) (Aug. 2024)            	       		       	     
 - San Diego State University, MSEE, Computer Engineering (Dec. 2019)
