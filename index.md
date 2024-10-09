@@ -1,4 +1,9 @@
 
+# NEWS
+I will be a Senior Machine Learning Scientist at CoreLogic, working on LLMs. (10/08/2024)
+
+---
+
 # EDUCATION
 - UC San Diego, PhD, Computer Engineering (advised by Prof. Farinaz Koushanfar) (Aug. 2024)            	       		       	     
 - San Diego State University, MSEE, Computer Engineering (Dec. 2019)
