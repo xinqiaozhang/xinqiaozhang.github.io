@@ -1,6 +1,6 @@
 
 # NEWS
-I will be a Senior Machine Learning Scientist at CoreLogic, working on LLMs. (10/08/2024)
+I have joined CoreLogic as a Senior Machine Learning Scientist, working on GenAI projects. (10/2024)
 
 ---
 
