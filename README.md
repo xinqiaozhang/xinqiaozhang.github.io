@@ -1,44 +1,67 @@
-## Developer Portfolio Landing Page Template
+# Xinqiao Zhang - Personal Website
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This repository contains the source code for my personal website, hosted on GitHub Pages at [xinqiaozhang.github.io](https://xinqiaozhang.github.io).
 
-<img src="images/demo.gif?raw=true"/>
+## Website Structure
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- `index.md`: Main landing page with about me, experience, and featured projects
+- `projects.md`: Detailed information about research projects
+- `publications.md`: Comprehensive list of publications organized by research area
+- `_config.yml`: Site configuration settings
+- `assets/css/style.scss`: Custom CSS styles
+- `_layouts/default.html`: Custom layout template
+- `images/`: Directory containing all images used on the site
+- `pdf/`: Directory containing PDF documents (CV, papers, etc.)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## How to Update the Website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Basic Content Updates
 
-### Markdown
+1. **Edit the main page**: Update `index.md` to change the content on the homepage
+2. **Update projects**: Edit `projects.md` to add or modify project information
+3. **Update publications**: Edit `publications.md` to add new publications or update existing ones
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Adding New Pages
 
-```markdown
-Syntax highlighted code block
+1. Create a new Markdown file (e.g., `newpage.md`) in the root directory
+2. Add the following front matter at the top of the file:
+   ```
+   ---
+   layout: default
+   title: Your Page Title
+   ---
+   ```
+3. Add your content below the front matter using Markdown
 
-# Header 1
-## Header 2
-### Header 3
+### Adding Images
 
-- Bulleted
-- List
+1. Add image files to the `images/` directory
+2. Reference images in your Markdown files using:
+   ```markdown
+   ![Alt text](images/your-image.jpg?raw=true)
+   ```
 
-1. Numbered
-2. List
+### Adding PDF Documents
 
-**Bold** and _Italic_ and `Code` text
+1. Add PDF files to the `pdf/` directory
+2. Link to PDFs in your Markdown files using:
+   ```markdown
+   [Link text](pdf/your-document.pdf)
+   ```
 
-[Link](url) and ![Image](src)
-```
+## Local Development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To test the website locally before pushing changes:
 
-___
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
+2. Run `bundle install` to install dependencies
+3. Run `bundle exec jekyll serve` to start a local server
+4. Visit `http://localhost:4000` in your browser
 
-References:
+## Deployment
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+The website is automatically built and deployed by GitHub Pages when changes are pushed to the main branch.
+
+## License
+
+This project is released into the public domain. See the [LICENSE](LICENSE) file for details.
