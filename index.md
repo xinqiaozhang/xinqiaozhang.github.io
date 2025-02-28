@@ -6,6 +6,12 @@ layout: default
 
 I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI and Deep Learning. With a PhD in Computer Engineering from UC San Diego, my research focuses on trustworthy machine learning, AI security, and hardware acceleration for deep learning.
 
+<div class="calendly-cta">
+  <h3>Want to connect?</h3>
+  <p>I'm available for consultations, collaborations, and discussions about ML, GenAI, and research opportunities.</p>
+  <a href="https://calendly.com/joe-x-zhang10" class="button" target="_blank">Schedule a Meeting</a>
+</div>
+
 ## Latest News
 - 🎉 Joined CoreLogic as a Senior Machine Learning Scientist, working on GenAI projects (Oct 2024)
 - 🏆 Received PhD in Computer Engineering from UC San Diego (Aug 2024)
@@ -191,6 +197,23 @@ I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI 
   
   .project-link:hover {
     text-decoration: underline;
+  }
+  
+  .calendly-cta {
+    background-color: #f6f8fa;
+    border-left: 4px solid #0366d6;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 25px 0;
+  }
+  
+  .calendly-cta h3 {
+    margin-top: 0;
+    color: #24292e;
+  }
+  
+  .calendly-cta p {
+    margin-bottom: 15px;
   }
 </style>
 
