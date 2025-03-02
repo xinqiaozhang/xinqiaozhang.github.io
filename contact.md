@@ -24,7 +24,7 @@ You can also reach me through:
 
 - **Email**: [joe.x.zhang10@gmail.com](mailto:joe.x.zhang10@gmail.com)
 - **LinkedIn**: [linkedin.com/in/xinqiaozhang](https://www.linkedin.com/in/xinqiaozhang)
-- **GitHub**: [github.com/zhangxinqiao-ch](https://github.com/zhangxinqiao)
+- **GitHub**: [github.com/zhangxinqiao-ch](https://github.com/xinqiaozhang)
 
 ## Research Collaboration
 
