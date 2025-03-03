@@ -4,9 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Xinqiao Zhang - Senior Machine Learning Scientist specializing in GenAI, Deep Learning, and Trustworthy ML. Expert in secure AI systems and hardware acceleration for deep learning.">
 
-{% seo %}
+    {% seo %}
+    {% include structured-data.html %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -15,30 +18,68 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div class="profile-container">
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Profile Photo" class="profile-photo" />
+          {% endif %}
+          
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          
+          <p class="site-description">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <button class="mobile-menu-toggle" aria-label="Toggle navigation menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <ul class="navigation">
-          <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-          <li><a href="{{ "/projects" | absolute_url }}">Projects</a></li>
-          <li><a href="{{ "/publications" | absolute_url }}">Publications</a></li>
-          <li><a href="{{ "/contact" | absolute_url }}">Contact</a></li>
-        </ul>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="{{ "/" | absolute_url }}" class="nav-link"><i class="fas fa-home"></i> Home</a></li>
+            <li><a href="{{ "/projects" | absolute_url }}" class="nav-link"><i class="fas fa-project-diagram"></i> Projects</a></li>
+            <li><a href="{{ "/publications" | absolute_url }}" class="nav-link"><i class="fas fa-book"></i> Publications</a></li>
+            <li><a href="{{ "/achievements" | absolute_url }}" class="nav-link"><i class="fas fa-trophy"></i> Achievements</a></li>
+            <li><a href="{{ "/resume" | absolute_url }}" class="nav-link"><i class="fas fa-file-alt"></i> Resume</a></li>
+            <li><a href="{{ "/contact" | absolute_url }}" class="nav-link"><i class="fas fa-envelope"></i> Contact</a></li>
+          </ul>
+        </nav>
+        
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/xinqiaozhang" target="_blank" class="social-icon" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+          <a href="https://github.com/xinqiaozhang" target="_blank" class="social-icon" title="GitHub"><i class="fab fa-github"></i></a>
+          <a href="mailto:joe.x.zhang10@gmail.com" class="social-icon" title="Email"><i class="fas fa-envelope"></i></a>
+          <a href="https://calendly.com/joe-x-zhang10" target="_blank" class="social-icon" title="Schedule a meeting"><i class="far fa-calendar-alt"></i></a>
+        </div>
+        
+        <div class="download-cv">
+          <a href="pdf/CV_Xinqiao_1024.pdf" class="cv-button">
+            <i class="fas fa-file-download"></i> Download CV
+          </a>
+        </div>
       </header>
+      
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
+      
       <footer>
-        <p><small>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.github.repository_name }}. All rights reserved.</small></p>
+        <div class="footer-content">
+          <div class="copyright">
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.github.repository_name }}. All rights reserved.</p>
+          </div>
+          <div class="footer-links">
+            <a href="{{ "/" | absolute_url }}">Home</a>
+            <a href="{{ "/projects" | absolute_url }}">Projects</a>
+            <a href="{{ "/publications" | absolute_url }}">Publications</a>
+            <a href="{{ "/achievements" | absolute_url }}">Achievements</a>
+            <a href="{{ "/resume" | absolute_url }}">Resume</a>
+            <a href="{{ "/contact" | absolute_url }}">Contact</a>
+          </div>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
   </body>
 </html> 

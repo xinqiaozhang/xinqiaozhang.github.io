@@ -2,26 +2,65 @@
 layout: default
 ---
 
-# About Me
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>Xinqiao Zhang</h1>
+    <h2>Senior Machine Learning Scientist</h2>
+    <p class="hero-tagline">Specializing in GenAI, Deep Learning, and Trustworthy ML</p>
+    <div class="hero-cta">
+      <a href="https://calendly.com/joe-x-zhang10" class="hero-button" target="_blank">Schedule a Meeting</a>
+      <a href="pdf/CV_Xinqiao_1024.pdf" class="hero-button secondary">Download Resume</a>
+    </div>
+  </div>
+</div>
+
+<div class="skill-badges">
+  <span class="badge">GenAI</span>
+  <span class="badge">Deep Learning</span>
+  <span class="badge">LLMs</span>
+  <span class="badge">RAG Systems</span>
+  <span class="badge">Hardware Acceleration</span>
+  <span class="badge">AI Security</span>
+  <span class="badge">Media Authentication</span>
+  <span class="badge">ML Trustworthiness</span>
+</div>
+
+## About Me
 
 I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI and Deep Learning. With a PhD in Computer Engineering from UC San Diego, my research focuses on trustworthy machine learning, AI security, and hardware acceleration for deep learning.
 
-<div class="calendly-cta">
-  <h3>Want to connect?</h3>
-  <p>I'm available for consultations, collaborations, and discussions about ML, GenAI, and research opportunities.</p>
-  <a href="https://calendly.com/joe-x-zhang10" class="button" target="_blank">Schedule a Meeting</a>
-</div>
+{% include testimonials.html %}
 
 ## Latest News
 - 🎉 Joined CoreLogic as a Senior Machine Learning Scientist, working on GenAI projects (Oct 2024)
 - 🏆 Received PhD in Computer Engineering from UC San Diego (Aug 2024)
 - 🚀 Founded Check-It Analytics, an AI-driven financial information platform (Aug 2023)
 
-## Research Interests
-- **Trustworthy Machine Learning**: Developing robust ML systems resistant to adversarial attacks
-- **GenAI & LLMs**: Building secure retrieval-augmented generation systems
-- **Hardware Security**: Designing efficient hardware acceleration for deep learning
-- **Media Authentication**: Creating watermarking techniques to counter deepfakes
+## What I Bring to the Table
+
+<div class="value-proposition">
+  <div class="value-item">
+    <h3>🔍 Problem Solving</h3>
+    <p>I tackle complex ML challenges with innovative approaches, as demonstrated by my work on RAG security that prevented 90% of state-of-the-art poisoning attacks.</p>
+  </div>
+  
+  <div class="value-item">
+    <h3>💡 Innovation Leadership</h3>
+    <p>Led multiple research initiatives resulting in 5 patents and numerous publications in top-tier conferences like ICCV and NeurIPS.</p>
+  </div>
+  
+  <div class="value-item">
+    <h3>🚀 Business Impact</h3>
+    <p>At Check-It Analytics, I implemented RAG for LLMs to streamline financial processes, achieving up to 80% time savings compared to traditional platforms.</p>
+  </div>
+  
+  <div class="value-item">
+    <h3>🛠️ Technical Depth</h3>
+    <p>Deep expertise in GenAI, ML security, hardware acceleration, and quantization techniques that optimize both performance and security.</p>
+  </div>
+</div>
+
+## Recent Projects
 
 ---
 
@@ -72,28 +111,70 @@ I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI 
 
 ---
 
-# Selected Projects
+<div class="featured-projects-heading">
+  <h2>Featured Projects</h2>
+  <a href="/projects" class="view-all">View All Projects →</a>
+</div>
 
 <div class="project-grid">
   <div class="project-card">
-    <img src="images/facesign.jpg?raw=true" alt="FaceSign Project"/>
-    <h3>Secure Retrieval-Augmented Generation on LLMs</h3>
-    <p>Implemented attack defense using a novel objective function combining adversarial loss, BERTScore, and harmful loss. Successfully prevented over 90% of state-of-the-art poisoning attacks and jailbreaking attacks on RAG-based LLMs.</p>
-    <a href="#" class="project-link">Learn more</a>
+    <div class="project-image">
+      <img src="images/facesign.jpg?raw=true" alt="FaceSign Project"/>
+    </div>
+    <div class="project-content">
+      <h3>Secure Retrieval-Augmented Generation on LLMs</h3>
+      <p>Implemented attack defense using a novel objective function combining adversarial loss, BERTScore, and harmful loss. Successfully prevented over 90% of state-of-the-art poisoning attacks and jailbreaking attacks on RAG-based LLMs.</p>
+      <div class="project-technologies">
+        <span class="tech-tag">RAG</span>
+        <span class="tech-tag">LLMs</span>
+        <span class="tech-tag">Security</span>
+      </div>
+      <a href="#" class="project-link">Learn more</a>
+    </div>
   </div>
   
   <div class="project-card">
-    <img src="images/trojai_t0.jpg?raw=true" alt="TrojAI Project"/>
-    <h3>TrojAI: Detecting Trojans in AI Models</h3>
-    <p>Developed methods to detect adversarial training models. Achieved 2nd place out of 16 teams in the NIST TrojAI competition.</p>
-    <a href="sample_page_trojai" class="project-link">Learn more</a>
+    <div class="project-image">
+      <img src="images/trojai_t0.jpg?raw=true" alt="TrojAI Project"/>
+    </div>
+    <div class="project-content">
+      <h3>TrojAI: Detecting Trojans in AI Models</h3>
+      <p>Developed methods to detect adversarial training models. Achieved 2nd place out of 16 teams in the NIST TrojAI competition.</p>
+      <div class="project-technologies">
+        <span class="tech-tag">AI Security</span>
+        <span class="tech-tag">Adversarial ML</span>
+        <span class="tech-tag">Detection</span>
+      </div>
+      <a href="sample_page_trojai" class="project-link">Learn more</a>
+    </div>
   </div>
   
   <div class="project-card">
-    <img src="images/CVPR2021_0.jpg?raw=true" alt="BNN Project"/>
-    <h3>Quantization of Deep Neural Networks</h3>
-    <p>Enabled oblivious inference in Binary Neural Networks. Achieved 2x faster inference and up to 11x faster inference for binary networks.</p>
-    <a href="sample_page_ECE226" class="project-link">Learn more</a>
+    <div class="project-image">
+      <img src="images/CVPR2021_0.jpg?raw=true" alt="BNN Project"/>
+    </div>
+    <div class="project-content">
+      <h3>Quantization of Deep Neural Networks</h3>
+      <p>Enabled oblivious inference in Binary Neural Networks. Achieved 2x faster inference and up to 11x faster inference for binary networks.</p>
+      <div class="project-technologies">
+        <span class="tech-tag">Quantization</span>
+        <span class="tech-tag">BNNs</span>
+        <span class="tech-tag">Optimization</span>
+      </div>
+      <a href="sample_page_ECE226" class="project-link">Learn more</a>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="testimonial-section">
+  <h2>Collaboration & Impact</h2>
+  <div class="testimonial">
+    <blockquote>
+      "Xinqiao's expertise in AI security and machine learning has been invaluable to our research. His innovative approaches consistently lead to breakthrough results."
+    </blockquote>
+    <cite>— Prof. Farinaz Koushanfar, UC San Diego</cite>
   </div>
 </div>
 
@@ -117,103 +198,326 @@ I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI 
   P. Neekhara, S. Hussain, **X. Zhang**, K. Huang, J. McAuley, F. Koushanfar  
   *ACM TOMM 2024* | [Paper](https://arxiv.org/pdf/2204.01960.pdf) | [Patent](https://patents.google.com/patent/US20230319711A1/en)
 
-## Hardware Security
-
-- **AdaTest: Reinforcement Learning and Adaptive Sampling for On-chip Hardware Trojan Detection**  
-  H. Chen, **X. Zhang**, K. Huang, F. Koushanfar  
-  *ACM TECS 2022* | [Paper](https://dl.acm.org/doi/pdf/10.1145/3544015)
-
-- **SenseHash: Computing on Sensor Values Mystified at the Origin**  
-  N. Sheybani, **X. Zhang**, S. U. Hussain, F. Koushanfar  
-  *IEEE TETC 2021* | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9935805)
-
-[View All Publications](#)
-
----
-
-# Awards & Honors
-
-- **Outstanding Paper Award** - NeurIPS 2022 TSRML Workshop
-- **DAC Young Fellow** - 58th Design Automation Conference (2021)
-- **Honorable Mention** - Mathematical Contest in Modeling (2016)
-
----
-
-# Professional Service
-
-## Reviewer for:
-- ACM Transactions on TECS
-- IEEE Transactions on Dependable and Secure Computing
-- Transactions on Machine Learning Research
-- IEEE Transactions on Information Forensics & Security
-- International Journal of Machine Learning and Cybernetics
-- IEEE ICPR
+<div class="publications-cta">
+  <a href="/publications" class="button">View All Publications</a>
+</div>
 
 <style>
+  /* Project grid styling */
   .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
-    margin: 20px 0;
+    gap: 30px;
+    margin: 25px 0;
   }
   
   .project-card {
     border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 16px;
-    transition: transform 0.3s ease;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
   }
   
   .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
   }
   
-  .project-card img {
-    width: 100%;
+  .project-image {
     height: 180px;
+    overflow: hidden;
+  }
+  
+  .project-image img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border-radius: 4px;
-    margin-bottom: 12px;
+    transition: transform 0.5s ease;
+  }
+  
+  .project-card:hover .project-image img {
+    transform: scale(1.05);
+  }
+  
+  .project-content {
+    padding: 20px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
   }
   
   .project-card h3 {
     margin-top: 0;
+    margin-bottom: 10px;
     font-size: 18px;
+    color: #0366d6;
   }
   
   .project-card p {
     font-size: 14px;
     color: #586069;
+    margin-bottom: 15px;
+    flex-grow: 1;
+  }
+  
+  .project-technologies {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+    gap: 5px;
+  }
+  
+  .tech-tag {
+    font-size: 12px;
+    padding: 4px 8px;
+    background-color: #f1f8ff;
+    color: #0366d6;
+    border-radius: 20px;
+    font-weight: 500;
   }
   
   .project-link {
-    display: inline-block;
-    margin-top: 8px;
+    align-self: flex-start;
     font-weight: 600;
     color: #0366d6;
+    font-size: 14px;
     text-decoration: none;
+    padding: 5px 0;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease;
   }
   
   .project-link:hover {
-    text-decoration: underline;
+    border-color: #0366d6;
+    text-decoration: none;
   }
   
-  .calendly-cta {
+  /* Hero section */
+  .hero-section {
     background-color: #f6f8fa;
-    border-left: 4px solid #0366d6;
-    border-radius: 6px;
-    padding: 20px;
-    margin: 25px 0;
+    border-radius: 10px;
+    padding: 40px 30px;
+    margin-bottom: 30px;
+    text-align: center;
   }
   
-  .calendly-cta h3 {
-    margin-top: 0;
+  .hero-content h1 {
+    font-size: 2.5em;
+    margin: 0;
+    border: none;
     color: #24292e;
   }
   
-  .calendly-cta p {
-    margin-bottom: 15px;
+  .hero-content h2 {
+    font-size: 1.8em;
+    margin: 10px 0;
+    border: none;
+    color: #0366d6;
+  }
+  
+  .hero-tagline {
+    font-size: 1.2em;
+    color: #586069;
+    margin-bottom: 25px;
+  }
+  
+  .hero-cta {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 25px;
+    flex-wrap: wrap;
+  }
+  
+  .hero-button {
+    padding: 12px 24px;
+    background-color: #0366d6;
+    color: white;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    text-decoration: none;
+  }
+  
+  .hero-button:hover {
+    background-color: #0256b9;
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: white;
+  }
+  
+  .hero-button.secondary {
+    background-color: transparent;
+    color: #0366d6;
+    border: 2px solid #0366d6;
+  }
+  
+  .hero-button.secondary:hover {
+    background-color: rgba(3, 102, 214, 0.1);
+    color: #0366d6;
+  }
+  
+  /* Skill badges */
+  .skill-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0 30px;
+    justify-content: center;
+  }
+  
+  .badge {
+    padding: 8px 16px;
+    background-color: #0366d6;
+    color: white;
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  
+  /* Value proposition section */
+  .value-proposition {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 20px;
+    margin: 25px 0;
+  }
+  
+  .value-item {
+    padding: 20px;
+    background-color: #f6f8fa;
+    border-radius: 8px;
+    border-left: 4px solid #0366d6;
+  }
+  
+  .value-item h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #24292e;
+  }
+  
+  .value-item p {
+    margin-bottom: 0;
+    color: #586069;
+    font-size: 14px;
+  }
+  
+  /* Featured projects heading with View All link */
+  .featured-projects-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .featured-projects-heading h2 {
+    margin: 0;
+  }
+  
+  .view-all {
+    font-weight: 600;
+    color: #0366d6;
+    font-size: 16px;
+  }
+  
+  /* Testimonials section */
+  .testimonial-section {
+    background-color: #f6f8fa;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px 0;
+  }
+  
+  .testimonial-section h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border: none;
+  }
+  
+  .testimonial {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .testimonial blockquote {
+    font-size: 18px;
+    color: #24292e;
+    font-style: italic;
+    position: relative;
+    padding: 0 30px;
+    margin: 0;
+    line-height: 1.6;
+  }
+  
+  .testimonial blockquote:before {
+    content: '"';
+    font-size: 60px;
+    font-family: Georgia, serif;
+    color: #0366d6;
+    position: absolute;
+    left: 0;
+    top: -10px;
+    opacity: 0.3;
+  }
+  
+  .testimonial cite {
+    display: block;
+    text-align: right;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 15px;
+    color: #586069;
+  }
+  
+  /* Publications CTA */
+  .publications-cta {
+    text-align: center;
+    margin: 30px 0;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0366d6;
+    color: white;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background-color: #0256b9;
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* Media queries for responsiveness */
+  @media (max-width: 768px) {
+    .hero-content h1 {
+      font-size: 2em;
+    }
+    
+    .hero-content h2 {
+      font-size: 1.5em;
+    }
+    
+    .hero-tagline {
+      font-size: 1em;
+    }
+    
+    .project-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .value-proposition {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
 

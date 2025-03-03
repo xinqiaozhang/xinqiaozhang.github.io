@@ -14,17 +14,61 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
+- jekyll-sitemap
 
+# Primary language
+lang: en_US
+  
 # SEO settings
 author: Xinqiao Zhang
 twitter:
   username: 
-  card: summary
+  card: summary_large_image
 social:
   name: Xinqiao Zhang
   links:
     - https://www.linkedin.com/in/xinqiaozhang
-    - https://github.com/zhangxinqiao-ch
+    - https://github.com/xinqiaozhang
     - https://calendly.com/joe-x-zhang10
+    
+# Site metadata for SEO
+tagline: "Machine Learning Scientist and AI Security Expert"
+url: "https://xinqiaozhang.github.io"
+image: "/images/xinqiao1008.jpeg?raw=true"
+locale: "en_US"
 
+# Additional SEO metadata
+webmaster_verifications:
+  google: # Add your Google verification code here
+  bing: # Add your Bing verification code here
+
+# Analytics
 google_analytics: UA-149369516-1
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections settings (if you want to organize content by collections)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+  publications:
+    output: true
+    permalink: /:collection/:name
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE

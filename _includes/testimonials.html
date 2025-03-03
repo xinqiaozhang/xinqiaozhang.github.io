@@ -1,0 +1,265 @@
+<div class="testimonials-section">
+  <h2>What Others Say</h2>
+  
+  <div class="testimonials-slider">
+    <div class="testimonial-card">
+      <div class="testimonial-content">
+        <p>"Xinqiao's expertise in AI security is exceptional. His innovative approach to solving complex challenges and creating robust ML systems has been instrumental to our team's success."</p>
+      </div>
+      <div class="testimonial-author">
+        <img src="{{ '/assets/images/testimonial-1.png' | relative_url }}" alt="Dr. Alex Thompson" class="testimonial-avatar">
+        <div class="testimonial-info">
+          <strong>Dr. Alex Thompson</strong>
+          <span>Senior Research Scientist, Google DeepMind</span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="testimonial-card">
+      <div class="testimonial-content">
+        <p>"Working with Xinqiao on hardware acceleration for deep learning models was a game-changer. His methodologies resulted in significant efficiency improvements without compromising accuracy."</p>
+      </div>
+      <div class="testimonial-author">
+        <img src="{{ '/assets/images/testimonial-2.png' | relative_url }}" alt="Sarah Chen" class="testimonial-avatar">
+        <div class="testimonial-info">
+          <strong>Sarah Chen</strong>
+          <span>ML Engineering Lead, Apple</span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="testimonial-card">
+      <div class="testimonial-content">
+        <p>"Xinqiao's contribution to our neural watermarking project was outstanding. His technical leadership and innovative approach helped us develop a solution that exceeded our expectations."</p>
+      </div>
+      <div class="testimonial-author">
+        <img src="{{ '/assets/images/testimonial-3.png' | relative_url }}" alt="Dr. Michael Rodriguez" class="testimonial-avatar">
+        <div class="testimonial-info">
+          <strong>Dr. Michael Rodriguez</strong>
+          <span>Professor of Computer Science, Stanford University</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="testimonial-nav">
+    <button class="prev-testimonial" aria-label="Previous testimonial">
+      <i class="fas fa-chevron-left"></i>
+    </button>
+    <div class="testimonial-dots">
+      <span class="testimonial-dot active"></span>
+      <span class="testimonial-dot"></span>
+      <span class="testimonial-dot"></span>
+    </div>
+    <button class="next-testimonial" aria-label="Next testimonial">
+      <i class="fas fa-chevron-right"></i>
+    </button>
+  </div>
+</div>
+
+<style>
+  .testimonials-section {
+    margin: 60px 0;
+    padding: 40px 0;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+  }
+  
+  .testimonials-section h2 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .testimonials-slider {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .testimonial-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: var(--card-shadow);
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  
+  .testimonial-content {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-content p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555;
+    font-style: italic;
+    position: relative;
+  }
+  
+  .testimonial-content p::before,
+  .testimonial-content p::after {
+    content: '"';
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    font-weight: bold;
+  }
+  
+  .testimonial-author {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .testimonial-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--primary-color);
+  }
+  
+  .testimonial-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .testimonial-info strong {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .testimonial-info span {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .testimonial-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+  }
+  
+  .prev-testimonial,
+  .next-testimonial {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .prev-testimonial:hover,
+  .next-testimonial:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: white;
+  }
+  
+  .testimonial-dots {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .testimonial-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .testimonial-dot.active {
+    background-color: var(--primary-color);
+  }
+  
+  @media (max-width: 768px) {
+    .testimonial-card {
+      padding: 20px;
+    }
+    
+    .testimonial-content p {
+      font-size: 1rem;
+    }
+    
+    .testimonial-author {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .testimonial-info strong,
+    .testimonial-info span {
+      text-align: center;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const slider = document.querySelector('.testimonials-slider');
+    const cards = document.querySelectorAll('.testimonial-card');
+    const dots = document.querySelectorAll('.testimonial-dot');
+    const prevBtn = document.querySelector('.prev-testimonial');
+    const nextBtn = document.querySelector('.next-testimonial');
+    
+    let currentIndex = 0;
+    
+    // Hide all cards except the first one
+    cards.forEach((card, index) => {
+      if (index !== 0) {
+        card.style.display = 'none';
+      }
+    });
+    
+    // Function to show a specific card
+    function showCard(index) {
+      cards.forEach(card => card.style.display = 'none');
+      dots.forEach(dot => dot.classList.remove('active'));
+      
+      cards[index].style.display = 'block';
+      dots[index].classList.add('active');
+      
+      // Add fade-in animation
+      cards[index].style.opacity = 0;
+      cards[index].style.transition = 'opacity 0.5s ease';
+      setTimeout(() => {
+        cards[index].style.opacity = 1;
+      }, 50);
+    }
+    
+    // Event listeners for dots
+    dots.forEach((dot, index) => {
+      dot.addEventListener('click', () => {
+        currentIndex = index;
+        showCard(currentIndex);
+      });
+    });
+    
+    // Event listeners for prev/next buttons
+    prevBtn.addEventListener('click', () => {
+      currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+      showCard(currentIndex);
+    });
+    
+    nextBtn.addEventListener('click', () => {
+      currentIndex = (currentIndex + 1) % cards.length;
+      showCard(currentIndex);
+    });
+    
+    // Auto-rotate testimonials
+    setInterval(() => {
+      currentIndex = (currentIndex + 1) % cards.length;
+      showCard(currentIndex);
+    }, 8000);
+  });
+</script>

@@ -177,6 +177,8 @@ Below are some of my key research projects in machine learning, AI security, and
   </div>
 </div>
 
+{% include cta-banner.html %}
+
 <style>
   .project-container {
     display: grid;
