@@ -168,18 +168,6 @@ I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI 
 
 ---
 
-<div class="testimonial-section">
-  <h2>Collaboration & Impact</h2>
-  <div class="testimonial">
-    <blockquote>
-      "Xinqiao's expertise in AI security and machine learning has been invaluable to our research. His innovative approaches consistently lead to breakthrough results."
-    </blockquote>
-    <cite>— Prof. Farinaz Koushanfar, UC San Diego</cite>
-  </div>
-</div>
-
----
-
 # Selected Publications
 
 ## Trustworthy Machine Learning
@@ -424,55 +412,6 @@ I'm a **Senior Machine Learning Scientist** at CoreLogic, specializing in GenAI 
     font-size: 16px;
   }
   
-  /* Testimonials section */
-  .testimonial-section {
-    background-color: #f6f8fa;
-    border-radius: 10px;
-    padding: 30px;
-    margin: 30px 0;
-  }
-  
-  .testimonial-section h2 {
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 20px;
-    border: none;
-  }
-  
-  .testimonial {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .testimonial blockquote {
-    font-size: 18px;
-    color: #24292e;
-    font-style: italic;
-    position: relative;
-    padding: 0 30px;
-    margin: 0;
-    line-height: 1.6;
-  }
-  
-  .testimonial blockquote:before {
-    content: '"';
-    font-size: 60px;
-    font-family: Georgia, serif;
-    color: #0366d6;
-    position: absolute;
-    left: 0;
-    top: -10px;
-    opacity: 0.3;
-  }
-  
-  .testimonial cite {
-    display: block;
-    text-align: right;
-    font-style: normal;
-    font-weight: 600;
-    margin-top: 15px;
-    color: #586069;
-  }
   
   /* Publications CTA */
   .publications-cta {
