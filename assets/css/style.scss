@@ -75,17 +75,22 @@ header {
   background-color: var(--bg-color);
   box-shadow: var(--card-shadow);
   transition: transform var(--transition-time) ease;
+  height: 100vh;
+  overflow-y: auto;
+  box-sizing: border-box;
 }
 
 /* Profile section */
 .profile-container {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .profile-photo {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid white;
@@ -99,35 +104,38 @@ header {
 }
 
 header h1 {
-  font-size: 1.5em;
-  margin: 0 0 10px 0;
+  font-size: 1.3em;
+  margin: 0 0 8px 0;
   border: none;
   padding: 0;
+  line-height: 1.2;
 }
 
 .site-description {
   color: var(--light-text);
-  font-size: 14px;
-  margin-bottom: 15px;
+  font-size: 13px;
+  margin-bottom: 0;
+  line-height: 1.4;
 }
 
 /* Navigation */
 .main-nav ul {
   list-style: none;
   padding: 0;
-  margin: 20px 0;
+  margin: 0 0 25px 0;
 }
 
 .main-nav li {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .nav-link {
   display: block;
-  padding: 10px 15px;
+  padding: 8px 12px;
   border-radius: 6px;
   color: var(--text-color);
   font-weight: 500;
+  font-size: 14px;
   transition: background-color var(--transition-time) ease, color var(--transition-time) ease;
 }
 
@@ -138,34 +146,35 @@ header h1 {
 }
 
 .nav-link i {
-  width: 20px;
+  width: 16px;
   text-align: center;
-  margin-right: 5px;
+  margin-right: 8px;
+  font-size: 13px;
 }
 
 /* Social links */
 .social-links {
   display: flex;
   justify-content: center;
-  margin: 20px 0;
-  gap: 15px;
+  margin: 0 0 20px 0;
+  gap: 12px;
 }
 
 .social-icon {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   background-color: var(--primary-color);
   color: white;
-  font-size: 18px;
+  font-size: 14px;
   transition: transform var(--transition-time) ease, background-color var(--transition-time) ease;
 }
 
 .social-icon:hover {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
   background-color: var(--primary-hover);
   text-decoration: none;
   color: white;
@@ -174,16 +183,17 @@ header h1 {
 /* Download CV button */
 .download-cv {
   text-align: center;
-  margin: 20px 0;
+  margin: 0 0 20px 0;
 }
 
 .cv-button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 8px 16px;
   border-radius: 6px;
   background-color: var(--primary-color);
   color: white;
   font-weight: 500;
+  font-size: 13px;
   text-align: center;
   transition: background-color var(--transition-time) ease, transform var(--transition-time) ease;
 }
@@ -197,6 +207,7 @@ header h1 {
 
 .cv-button i {
   margin-right: 5px;
+  font-size: 12px;
 }
 
 /* Main content section */
@@ -210,148 +221,22 @@ section {
 footer {
   width: calc(100% - 300px);
   float: right;
-  margin-top: 60px;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 12px;
-  padding: 40px 30px 20px;
-  box-shadow: 0 -4px 20px rgba(0,0,0,0.08);
-}
-
-.footer-main {
-  display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 40px;
-  margin-bottom: 30px;
-}
-
-.footer-section h3 {
-  color: var(--text-color);
-  font-size: 1.3em;
-  margin-bottom: 15px;
-  border: none;
-  padding: 0;
-}
-
-.footer-section h4 {
-  color: var(--text-color);
-  font-size: 1.1em;
-  margin-bottom: 15px;
-  border: none;
-  padding: 0;
-}
-
-.footer-section p {
-  color: var(--light-text);
-  line-height: 1.6;
-  margin-bottom: 20px;
-}
-
-.footer-social {
-  display: flex;
-  gap: 12px;
-}
-
-.footer-social-link {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background-color: var(--primary-color);
-  color: white;
-  font-size: 16px;
-  transition: all var(--transition-time) ease;
-}
-
-.footer-social-link:hover {
-  background-color: var(--primary-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(3, 102, 214, 0.3);
-  text-decoration: none;
-  color: white;
-}
-
-.footer-links {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.footer-links li {
-  margin-bottom: 8px;
-}
-
-.footer-links a {
-  color: var(--light-text);
-  text-decoration: none;
-  transition: color var(--transition-time) ease;
-  font-size: 14px;
-}
-
-.footer-links a:hover {
-  color: var(--primary-color);
-  text-decoration: none;
-}
-
-.footer-expertise {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.footer-expertise li {
-  color: var(--light-text);
-  font-size: 14px;
-  margin-bottom: 6px;
-  position: relative;
-  padding-left: 15px;
-}
-
-.footer-expertise li::before {
-  content: "•";
-  color: var(--primary-color);
-  position: absolute;
-  left: 0;
-  font-weight: bold;
-}
-
-.footer-bottom {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-top: 20px;
+  margin-top: 40px;
+  padding: 20px 0;
   border-top: 1px solid var(--border-color);
-  flex-wrap: wrap;
-  gap: 15px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer-copyright p {
   margin: 0;
   color: var(--light-text);
   font-size: 14px;
-}
-
-.footer-download-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 20px;
-  background-color: var(--primary-color);
-  color: white;
-  border-radius: 6px;
-  font-weight: 500;
-  font-size: 14px;
-  text-decoration: none;
-  transition: all var(--transition-time) ease;
-}
-
-.footer-download-btn:hover {
-  background-color: var(--primary-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(3, 102, 214, 0.3);
-  text-decoration: none;
-  color: white;
 }
 
 /* Responsive design */
@@ -419,21 +304,6 @@ footer {
     font-size: 16px;
   }
   
-  .footer-main {
-    grid-template-columns: 1fr;
-    gap: 30px;
-    text-align: center;
-  }
-  
-  .footer-social {
-    justify-content: center;
-  }
-  
-  .footer-bottom {
-    flex-direction: column;
-    text-align: center;
-    gap: 20px;
-  }
 }
 
 /* Projects page specific styles */
