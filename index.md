@@ -9,7 +9,7 @@ layout: default
     <p class="hero-tagline">Specializing in GenAI, Deep Learning, and Trustworthy ML</p>
     <div class="hero-cta">
       <a href="https://calendly.com/joe-x-zhang10" class="hero-button" target="_blank">Schedule a Meeting</a>
-      <a href="pdf/CV_Xinqiao_1024.pdf" class="hero-button secondary">Download Resume</a>
+      <a href="pdf/CV_Xinqiao_012026.pdf" class="hero-button secondary">Download Resume</a>
     </div>
   </div>
 </div>
